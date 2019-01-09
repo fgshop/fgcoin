@@ -51,6 +51,8 @@ src/qt/bitcoin-qt.files
 src/qt/bitcoin-qt.includes
 
 .gitignore
+.travis.yml
+
 .deps
 .dirstamp
 .libs
