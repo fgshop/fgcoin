@@ -529,7 +529,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/fgcoin-project/fgcoin>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/fgshop/fgcoin>";
     const std::string URL_WEBSITE = "<https://fgcoin.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +

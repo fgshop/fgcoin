@@ -28,7 +28,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/fgcoin-project/fgcoin.git"
+- "url": "https://github.com/fgshop/fgcoin.git"
   "dir": "fgcoin"
 files: []
 script: |
