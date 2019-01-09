@@ -50,6 +50,7 @@ src/qt/bitcoin-qt.creator.user
 src/qt/bitcoin-qt.files
 src/qt/bitcoin-qt.includes
 
+.gitignore
 .deps
 .dirstamp
 .libs
