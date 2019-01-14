@@ -15,7 +15,7 @@ Install the required packages using the following commands.
 # apt-get install libboost-all-dev libzmq3-dev libminiupnpc-dev
 # apt-get install curl git build-essential libtool autotools-dev
 # apt-get install automake pkg-config bsdmainutils python3
-# apt-get install software-properties-commen libssl-dev libevent-dev
+# apt-get install software-properties-common libssl-dev libevent-dev
 ```
 
 ### `Step 3`
