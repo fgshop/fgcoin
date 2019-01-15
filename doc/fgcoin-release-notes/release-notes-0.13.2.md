@@ -382,7 +382,7 @@ caching. A sample config for apache2 could look like:
 
     <Location /fgcoinrpc>
         ProxyPass http://127.0.0.1:9332/
-        ProxyPassReverse http://127.0.0.1:9332/
+        ProxyPassReverse http://127.0.0.1:/
         # optional enable digest auth
         # AuthType Digest
         # ...

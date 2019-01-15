@@ -128,6 +128,10 @@ def main():
     g.write(' */\n')
     with open(os.path.join(indir,'nodes_main.txt'),'r') as f:
         process_nodes(g, f, 'pnSeed6_main', 9333)
+
+
+
+        
     g.write('\n')
     with open(os.path.join(indir,'nodes_test.txt'),'r') as f:
         process_nodes(g, f, 'pnSeed6_test', 19335)
